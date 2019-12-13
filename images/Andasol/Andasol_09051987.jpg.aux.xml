@@ -1,0 +1,17 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>35.50267379679144</HistMin>
+        <HistMax>222.4973262032086</HistMax>
+        <BucketCount>187</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|1|0|1|2|2|3|4|5|0|7|8|3|6|7|8|12|4|12|7|6|7|8|12|18|7|12|13|18|13|11|13|20|15|8|17|11|15|19|16|22|20|17|18|20|22|12|27|24|18|16|23|14|21|27|17|17|18|18|21|20|17|18|15|19|30|27|24|19|21|18|20|27|23|18|23|18|29|17|14|24|25|16|17|24|28|13|16|11|20|10|12|16|15|11|13|12|7|13|11|8|13|13|6|12|14|11|8|9|9|6|6|7|4|6|8|4|12|7|9|8|3|11|11|7|7|5|6|8|6|9|8|6|5|9|9|14|14|9|10|5|14|6|7|3|8|10|11|10|8|2|8|7|7|5|6|8|2|0|3|3|0|0|0|2|1|0|1|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
