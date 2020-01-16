@@ -122,4 +122,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+changes/
 # End of https://www.gitignore.io/api/linux,python
