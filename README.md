@@ -10,7 +10,7 @@ In this job, I collaborated with <a href="https://github.com/IhebeddineRyahi">Ih
 <a name="Overview"/>  
 
 ## Overview
-!in this project, we built a machine learning model to detect changes in multi-temporal satellite images.  
+In this project, we built a machine learning model to detect changes in multi-temporal satellite images.  
 It uses Principal Component Analysis (PCA) and K-means clustering techniques over difference image.  
 
 <a name="Requirements"/>
